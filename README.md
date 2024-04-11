@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ilude&show_icons=true&theme=vue-dark&hide_rank=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ilude&show_icons=true&theme=vue-dark&hide_rank=true&custom_title=iLude%27s%20Github%20Stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilude&layout=compact&langs_count=6&card_width=320&theme=vue-dark" />
