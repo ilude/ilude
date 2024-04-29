@@ -11,8 +11,8 @@
 
 Member of the [TraefikTurkey Project](https://github.com/traefikturkey)
 
-My [Powershell](https://github.com/ilude/WindowsPowerShell) Setup
-
 My [Dotfiles](https://github.com/ilude/dotfiles) Setup
 
-My [NixOS](https://github.com/ilude/nix)
+My [NixOS](https://github.com/ilude/nix) Setup
+
+My [Powershell](https://github.com/ilude/WindowsPowerShell) Setup
