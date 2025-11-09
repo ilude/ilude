@@ -16,3 +16,5 @@ My [Dotfiles](https://github.com/ilude/dotfiles) Setup
 My [NixOS](https://github.com/ilude/nix) Setup
 
 My [Powershell](https://github.com/ilude/WindowsPowerShell) Setup
+
+My [Claude Clode](https://github.com/ilude/claude-code-config) Setup
