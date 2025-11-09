@@ -11,9 +11,9 @@
 
 Founder of the [TraefikTurkey Project](https://github.com/traefikturkey)
 
-My [Dotfiles](https://github.com/ilude/dotfiles) Setup
-
 My [NixOS](https://github.com/ilude/nix) Setup
+
+My [Dotfiles](https://github.com/ilude/dotfiles) Setup
 
 My [Powershell](https://github.com/ilude/WindowsPowerShell) Setup
 
