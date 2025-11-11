@@ -18,3 +18,5 @@ My [Dotfiles](https://github.com/ilude/dotfiles) Setup
 My [Powershell](https://github.com/ilude/WindowsPowerShell) Setup
 
 My [Claude Clode](https://github.com/ilude/claude-code-config) Setup
+
+My [Github Copilot](https://github.com/ilude/github-copilot-template) setup
